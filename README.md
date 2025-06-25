@@ -9,6 +9,9 @@ setup:
   install_dependencies: "npm install"
   start_app: "npm start"
 
+deployment:
+  url: https://pranavz21bcrjscpyqn94.drops.nxtwave.tech
+
 credentials:
   username: rahul
   password: rahul@2021
