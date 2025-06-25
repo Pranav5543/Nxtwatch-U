@@ -10,7 +10,7 @@ setup:
   start_app: "npm start"
 
 deployment:
-  url: https://pranavz21bcrjscpyqn94.drops.nxtwave.tech
+  url: https://pranav23.ccbp.tech
 
 credentials:
   username: rahul
